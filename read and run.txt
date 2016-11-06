@@ -1,0 +1,2 @@
+	Firstly,if you dont have training chars image's pixels number,you must run GenData .But if you have pixels 
+you can directly run TrainAndTest script.
